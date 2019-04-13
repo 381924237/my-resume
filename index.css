@@ -31,6 +31,10 @@ header {
   grid-row: 1;
 }
 
+header figure {
+  font-size: 1.5em;
+}
+
 aside {
   grid-column: 2;
   grid-row: 2;
