@@ -147,6 +147,17 @@ main {
   border-left: 2px solid #66a9a3;
 }
 
+figure img{
+  width: 95%;
+}
+
+figure {
+  padding: 8px 0;
+}
+.fanyi img {
+  width: 40%;
+}
+
 .detail .content {
   list-style-type: disc;
   padding-left: 30px;
