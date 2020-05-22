@@ -80,7 +80,7 @@ header figure p {
 section {
   display: grid;
   grid: auto auto auto / 50px 120px 1fr;
-  padding: 10px;
+  padding: 10px 20px 10px 10px;
   align-items: center;
 }
 
@@ -100,6 +100,10 @@ section > h2 {
   grid-row: 1;
   grid-column: 2; 
   font-size: 19px;
+}
+
+.timeline-panel > h3 {
+  margin: 10px 0;
 }
 
 section .detail {
